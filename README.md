@@ -57,6 +57,5 @@ Ziel des Projekts ist die Entwicklung eines KI-gestützten Tools zur Früherkenn
 
 ### Nächste Schritte (To-Do)
 - [ ] Prompts für häufige Belastungsmuster formulieren  
-- [ ] Beispieltexte mit realistischer Sprache erstellen  
-- [ ] `main.py` und `requirements.txt` im GitHub-Repository einrichten  
+ 
 - [ ] Erste Tests mit drei bis fünf Beispieltexten durchführen
